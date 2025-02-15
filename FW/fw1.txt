@@ -1,1 +1,2 @@
 lan1fw
+lan2fw
